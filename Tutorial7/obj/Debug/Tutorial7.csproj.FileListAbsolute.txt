@@ -1,0 +1,6 @@
+C:\Users\heshelhj\git\Tutorial7\Tutorial7\bin\Debug\Tutorial7.exe.config
+C:\Users\heshelhj\git\Tutorial7\Tutorial7\bin\Debug\Tutorial7.exe
+C:\Users\heshelhj\git\Tutorial7\Tutorial7\bin\Debug\Tutorial7.pdb
+C:\Users\heshelhj\git\Tutorial7\Tutorial7\obj\Debug\Tutorial7.csprojResolveAssemblyReference.cache
+C:\Users\heshelhj\git\Tutorial7\Tutorial7\obj\Debug\Tutorial7.exe
+C:\Users\heshelhj\git\Tutorial7\Tutorial7\obj\Debug\Tutorial7.pdb
