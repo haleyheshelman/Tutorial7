@@ -1,11 +1,11 @@
 ﻿Feature: PawnMovement
-	In order to avoid silly mistakes
-	As a math idiot
-	I want to be told the sum of two numbers
+	As a player,
+	I want to be able to move my pawn one space forward,
+	or two spaces forward when the pawn has not moved.
 
-@mytag
-Scenario: Add two numbers
-	Given I have entered 50 into the calculator
-	And I have entered 70 into the calculator
-	When I press add
-	Then the result should be 120 on the screen
+@movement @happypath
+Scenario: One space forward
+	Given that I have an empty chessboard
+	And I have a white pawn at a2
+	When I try to move the white pawn from a2 to a3
+	Then the white pawn is placed in a3.

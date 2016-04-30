@@ -87,7 +87,7 @@ this.ScenarioSetup(scenarioInfo);
 #line 10
  testRunner.When("I try to move the white pawn from a2 to a3", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line 11
- testRunner.Then("the white pawn is placed in a3.", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then("the white pawn is placed in a3", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             this.ScenarioCleanup();
         }
